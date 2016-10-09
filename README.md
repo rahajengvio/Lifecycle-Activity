@@ -14,6 +14,6 @@ Nama Aplikasi : LifecycleActivity
 
 Screenshoot : 
 
-1. Saat Aplikasi dibuka [SS LifecycleActivity](https://github.com/rahajengvio/Lifecycle-Activity/blob/master/LivecycleActivity2.JPG)
+1. Saat Aplikasi dibuka [SS LifecycleActivity](https://github.com/rahajengvio/Lifecycle-Activity/blob/master/LivecycleActivity2.JPG) pada [emulator](https://github.com/rahajengvio/Lifecycle-Activity/blob/master/LivecycleActivity11.JPG)
 
-2. Saat Aplikasi di tutup (menekan tombol back/home) [SS LifecycleActivity2](https://github.com/rahajengvio/Lifecycle-Activity/blob/master/LivecycleActivity1.JPG)
+2. Saat Aplikasi di tutup (menekan tombol back/home) [SS LifecycleActivity2](https://github.com/rahajengvio/Lifecycle-Activity/blob/master/LivecycleActivity1.JPG) pada [emulator] (https://github.com/rahajengvio/Lifecycle-Activity/blob/master/LivecycleActivity22.JPG)
